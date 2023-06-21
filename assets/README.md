@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools ; this allows for th user to view the console. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools;this allows for th user to view the console. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
 
 ## Credits
 
